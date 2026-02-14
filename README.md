@@ -116,10 +116,10 @@ XH AI Generation Monitoring System 是一个智能文本分析平台，用于判
 - 一个可用的 OpenAI 兼容 API 端点及有效的 API 密钥
 
 ### 安装
+>先拷贝文件，并在文件目录打开终端
 
 ```bash
-git clone https://github.com/your-username/xh-ai-monitor.git
-cd xh-ai-monitor
+
 pip install -r requirements.txt
 ```
 
