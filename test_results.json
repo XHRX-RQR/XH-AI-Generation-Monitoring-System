@@ -1,0 +1,97 @@
+{
+  "accuracy": 90.0,
+  "correct": 9,
+  "total": 10,
+  "results": [
+    {
+      "desc": "Personal blog post / memoir style",
+      "expected": "Human-written",
+      "verdict": "Human-written",
+      "confidence": 91,
+      "ai_probability": 8,
+      "correct": true,
+      "elapsed": 44.03
+    },
+    {
+      "desc": "Casual Reddit/forum post",
+      "expected": "Human-written",
+      "verdict": "Human-written",
+      "confidence": 96,
+      "ai_probability": 6,
+      "correct": true,
+      "elapsed": 42.9
+    },
+    {
+      "desc": "Medical case note with personal voice",
+      "expected": "Human-written",
+      "verdict": "Inconclusive",
+      "confidence": 68,
+      "ai_probability": 55,
+      "correct": false,
+      "elapsed": 43.0
+    },
+    {
+      "desc": "Chinese personal essay",
+      "expected": "Human-written",
+      "verdict": "Human-written",
+      "confidence": 92,
+      "ai_probability": 10,
+      "correct": true,
+      "elapsed": 40.89
+    },
+    {
+      "desc": "Opinionated tech blog / rant",
+      "expected": "Human-written",
+      "verdict": "Human-written",
+      "confidence": 94,
+      "ai_probability": 7,
+      "correct": true,
+      "elapsed": 42.84
+    },
+    {
+      "desc": "Generic AI essay on AI",
+      "expected": "AI-generated",
+      "verdict": "AI-generated",
+      "confidence": 92,
+      "ai_probability": 94,
+      "correct": true,
+      "elapsed": 39.72
+    },
+    {
+      "desc": "Generic AI advice article",
+      "expected": "AI-generated",
+      "verdict": "AI-generated",
+      "confidence": 95,
+      "ai_probability": 96,
+      "correct": true,
+      "elapsed": 42.69
+    },
+    {
+      "desc": "AI-generated history summary",
+      "expected": "AI-generated",
+      "verdict": "AI-generated",
+      "confidence": 90,
+      "ai_probability": 92,
+      "correct": true,
+      "elapsed": 48.04
+    },
+    {
+      "desc": "AI-generated climate change essay",
+      "expected": "AI-generated",
+      "verdict": "AI-generated",
+      "confidence": 93,
+      "ai_probability": 95,
+      "correct": true,
+      "elapsed": 40.75
+    },
+    {
+      "desc": "AI-generated Python overview",
+      "expected": "AI-generated",
+      "verdict": "AI-generated",
+      "confidence": 92,
+      "ai_probability": 94,
+      "correct": true,
+      "elapsed": 39.7
+    }
+  ]
+}
